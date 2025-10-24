@@ -102,9 +102,9 @@ The dataset contains detailed information about movies and TV shows available on
 
 ## 📁 Project Structure
 
-└── Netflix_Data_Analysis/
-    ├── Python_Project_2_Netflix.ipynb    # Jupyter Notebook (EDA & Visualization)
-    ├── netflix_titles.csv                # Dataset
-    └── README.md                         # Project Documentation
+- `Python_Project_2_Netflix.ipynb` — Jupyter Notebook (EDA & Visualization)  
+- `netflix_titles.csv` — Dataset  
+- `README.md` — Project Documentation
+
 
 
